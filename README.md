@@ -1,12 +1,13 @@
 #  I'm Jackson Uwem Joseph
 
-### Cybersecurity Professional | Offensive Security | Network Security | Threat Intelligence
+### Cybersecurity Professional | Offensive Security | Network Security | Maritime & Nautical Science
 
-I'm a cybersecurity professional focused on identifying, understanding, and mitigating security threats across networks, systems, and applications.
+I'm a cybersecurity professional with a background in **Nautical Science and maritime operations**, combining technical security knowledge with experience in structured, safety-critical environments.
 
 My core areas of interest include **ethical hacking, network security, threat modelling, threat intelligence, vulnerability management, incident response, and security documentation**.
 
-I enjoy building practical security labs, investigating vulnerabilities, analysing network activity, and continuously developing my offensive and defensive security capabilities.
+I enjoy building practical security labs, investigating vulnerabilities, analysing network activity, and continuously developing my **offensive and defensive security capabilities** while applying the discipline, risk awareness, and problem-solving mindset developed through my maritime background.
+
 
 ---
 
