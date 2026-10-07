@@ -1,4 +1,4 @@
-# Hi I'm Jackson Uwem Joseph
+# Hi, I'm Jackson Uwem Joseph
 
 ### Cybersecurity Professional | Offensive Security | Network Security | Maritime & Nautical Science
 
