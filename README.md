@@ -31,7 +31,7 @@ I enjoy building practical security labs, investigating vulnerabilities, analysi
 
 **Networking:** TCP/IP, DNS, HTTP/HTTPS, SSH, FTP, RDP, Network Scanning & Analysis
 
-**Scripting:** Python, Bash, SQL, PowerShell
+**Scripting:** Bash,& SQL
 
 ### 🌐 Networking & Network Security
 
